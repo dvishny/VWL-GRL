@@ -1,0 +1,1 @@
+This repository contains the Isca source code modifications for the simulations described in the manuscript "Impact of Atmospheric Cloud Radiative Effects on Annular Mode Persistence in Idealized Simulations" , as well as the Python script used to analyze the data.
